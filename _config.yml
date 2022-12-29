@@ -1,10 +1,10 @@
-title: Jekyll Theme
+title: 
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sebastián Acuña
-  email: seba.acunag89@gmail.com
+  name: 
+  email: 
 
 plugins:
   - jemoji
